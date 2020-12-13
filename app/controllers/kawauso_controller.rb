@@ -1,0 +1,2 @@
+class KawausoController < ApplicationController
+end
