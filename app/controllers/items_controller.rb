@@ -1,5 +1,18 @@
 class ItemsController < ApplicationController
 
-  def fuka
+  def create 
+
+  end
+
+  def index
+
+  end
+
+  def search
+
+  end
+
+  def nakano
+    
   end
 end
