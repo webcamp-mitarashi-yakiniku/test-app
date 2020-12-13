@@ -1,0 +1,2 @@
+class WakanaController < ApplicationController
+end
